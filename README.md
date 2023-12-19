@@ -26,6 +26,8 @@ I extend my gratitude to the Github community for their continuous support. Your
 ## Tags
 #Analytics #PowerBI #DataVisualization #DataAnalysis #BusinessIntelligence
 
+![Screenshot (41)](https://github.com/Shubhangi-6/Super-store-Dashboard/assets/140615568/df2989f9-07b5-40a1-9329-df77a7a47b4a)
+
 Thank you for joining me on this analytical journey! Your feedback and collaboration are highly appreciated.
 ```
 
