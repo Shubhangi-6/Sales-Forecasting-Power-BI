@@ -17,7 +17,7 @@ Welcome to my Super store  Analysis Dashboard project! In this endeavor, I explo
 ## Video Demonstration
 For a better understanding of the project, check out the accompanying video where I walk you through the dashboard, explaining key features and insights. This video enhances the visualization of the analytics journey undertaken in this project.
 
-[Insert Video Link]
+[Uploading WhatsApp Video 2023-12-19 at 14.27.39_33c2ddc3.mp4…]
 
 ## Acknowledgments
 I extend my gratitude to the LinkedIn community for their continuous support. Your encouragement fuels my passion for analytics, and I'm excited to share this exhilarating chapter of my journey with you.
