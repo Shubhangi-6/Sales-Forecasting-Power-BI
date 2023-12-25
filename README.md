@@ -1,4 +1,4 @@
-# Super store Sales gDashboard
+# Superstore Sales Dashboard
 
 
 
